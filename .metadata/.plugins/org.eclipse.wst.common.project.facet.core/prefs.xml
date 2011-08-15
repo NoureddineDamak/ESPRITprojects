@@ -1,0 +1,16 @@
+<root>
+  <facet id="jst.jsf">
+    <node name="libprov">
+      <node name="last-provider-used">
+        <attribute name="1.2" value="jsf-user-library-provider"/>
+      </node>
+    </node>
+    <node name="user.library.provider">
+      <node name="last.used.libraries">
+        <node name="1.2">
+          <node name="JSF 1.2 (Apache Myfaces JSF Core-1.2 API 1.2.9)"/>
+        </node>
+      </node>
+    </node>
+  </facet>
+</root>

@@ -1,0 +1,4 @@
+#Fri Aug 12 10:13:37 CEST 2011
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="Apache Tomcat v6.0" location\="/Library/Tomcat-6.0.32" name\="Apache Tomcat v6.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.60" timestamp\="0"/>\n  <runtime id\="JBoss v4.2" location\="/Users/noureddinedamak/Desktop/4eme/Jee/jboss-4.2.2.GA/bin" name\="JBoss v4.2" runtime-type-id\="org.eclipse.jst.server.generic.runtime.jboss42" server_definition_id\="org.eclipse.jst.server.generic.runtime.jboss42" timestamp\="0">\n    <map key\="generic_server_instance_properties" serverRootDirectory\="/Users/noureddinedamak/Desktop/4eme/Jee/jboss-4.2.2.GA"/>\n  </runtime>\n</runtimes>\n
+eclipse.preferences.version=1
